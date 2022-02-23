@@ -13,3 +13,6 @@ h2 {
   body {
     background-color: salmon;
   }
+  .intro {
+    font-style: italic;
+  }
