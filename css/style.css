@@ -16,3 +16,6 @@ h2 {
   .intro {
     font-style: italic;
   }
+  .author {
+      color: red;
+  }
